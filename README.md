@@ -11,3 +11,5 @@ I use this temaplte/stack to build full-stack applications for personal projects
 - [Shadcn](https://ui.shadcn.com/)
 - [Lucide Icons](https://lucide.dev/)
 - [Zod](https://zod.dev/)
+- [Prisma](https://www.prisma.io/)
+- [NextAuth](https://next-auth.js.org/)
